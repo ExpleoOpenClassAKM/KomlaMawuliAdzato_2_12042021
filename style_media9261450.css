@@ -20,7 +20,7 @@ h1
 
 p
 {
-    font-size: normal;
+    font-size: medium;
 }
 
 *
@@ -213,7 +213,7 @@ p
         {
             width: 50px;
             height: 100%;
-            border: 2px solid #F2F2F2;
+            border: 2px solid;
             background-color: #F2F2F2;
             border-top-left-radius: 10px;
             border-bottom-left-radius: 10px;
@@ -249,7 +249,7 @@ p
         {
             width: 130px;
             height: 100%;
-            border: 2px solid #0065FC;
+            border: 2px solid;
             border-top-right-radius: 10px;
             border-bottom-right-radius: 10px;
             margin: -1px -1px -1px 0px;
@@ -729,7 +729,7 @@ p
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            border: 2px solid #DEEBFF;
+            border: 2px solid;
             margin: -2px;
         }
 
@@ -769,7 +769,7 @@ p
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            border: 2px solid #DEEBFF;
+            border: 2px solid;
             margin: -2px;
         }
 
@@ -809,7 +809,7 @@ p
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            border: 2px solid #DEEBFF;
+            border: 2px solid;
             margin: -2px;
         }
 
@@ -849,7 +849,7 @@ p
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            border: 2px solid #DEEBFF;
+            border: 2px solid;
             margin: -2px;
         }
 

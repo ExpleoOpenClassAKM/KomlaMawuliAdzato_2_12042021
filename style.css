@@ -20,7 +20,7 @@ h1
 
 p
 {
-    font-size: normal;
+    font-size: medium;
 }
 
 /* Paramètres d'affichage pour la page */
@@ -1045,7 +1045,7 @@ p
 
 .fond_page_footer
 {
-    max-width: 1350;
+    width: auto;
     height: auto;
     background-color: #F2F2F2;
     margin: 0;
