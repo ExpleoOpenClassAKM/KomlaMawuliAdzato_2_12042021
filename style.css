@@ -670,8 +670,8 @@ p
     flex-direction: row;
     align-content: space-around;
     justify-content: space-between;
-    height: 12%;
-    margin: 12px 0px 0px 12px;
+    height: 8%;
+    margin: 35px 0px 0px 12px;
 }
 
 .titre_partie_populaire
@@ -683,7 +683,7 @@ p
 
 .image_croissance_populaire
 {
-    margin: 0px 10px 10px 10px;
+    margin: 0px 10px 0px 10px;
     font-size: 1.5em;
     display: block;
 }
